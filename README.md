@@ -1,2 +1,2 @@
-# G-r-nt-i-leme
+# Goruntu-isleme
 koklear implantlı bireyler için konuşma ve dil desteği
