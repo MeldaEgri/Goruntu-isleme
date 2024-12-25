@@ -1,0 +1,5 @@
+train: C:\Users\melda\Documents\GitHub\Görüntü-işleme\Goruntu-isleme\train.txt
+val: C:\Users\melda\Documents\GitHub\Görüntü-işleme\Goruntu-isleme\test.txt
+
+nc: 2  # Sınıf sayısı
+names: ['implantsız', 'implantlı']  # Sınıf isimleri
